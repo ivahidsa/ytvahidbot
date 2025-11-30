@@ -2,3 +2,4 @@ aiogram==2.25.1
 yt-dlp
 ffmpeg-python
 aiohttp==3.8.1
+ 
